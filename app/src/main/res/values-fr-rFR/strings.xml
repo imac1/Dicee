@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="button">Roulez</string>
+    <string name="description_button">Roule le  dé</string>
+    <string name="dicee_logo">" dé logo"</string>
+    <string name="left_dice">gauche  dé</string>
+    <string name="right_dice">droit  dé</string>
+</resources>

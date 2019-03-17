@@ -1,4 +1,11 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Dicee</string>
     <string name="button">Roll</string>
+    // available to voice reading feature
+    <string name="description_button">Rolls the dice</string>
+
+    <string name="left_dice">left_dice</string>
+    <string name="right_dice">right_dice</string>
+    <string name="dicee_logo" tools:ignore="ExtraTranslation">dicee_logo</string>
+
 </resources>
